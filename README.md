@@ -14,7 +14,6 @@ Cílem projektu je připravit robustní datové podklady, ve kterých bude možn
 Součástí výstupu je také vytvoření přehledové tabulky obsahující údaje o HDP, GINI koeficientu a populaci dalších evropských států pro stejné období jako pro primární přehled ČR.  
 Výsledky analýzy budou sloužit jako podklad pro prezentaci na následující konferenci zaměřené na tuto oblast.
 
-![](ukol_1_.png)
 ---
 
 ## 2. Použité datové sady (tabulky):
@@ -74,7 +73,7 @@ U všech sledovaných kategorií dochází průměrně k nárůstu mezd.
 Rychlost růstu se u jednotlivých kategorií liší – u některých je mírnější, u jiných výraznější – nicméně ve všech případech dochází k postupnému zvyšování.  
 Pro lepší srovnání byla data také exportována a vizualizována v Excelu. Kvůli přehlednosti graf zachycuje pouze 5 odvětví s nejvyššími průměrnými mzdami jako ilustrativní příklad.
 
-![](ex_1_.png)
+![](ukol_1_.png)
 
 ---
 
